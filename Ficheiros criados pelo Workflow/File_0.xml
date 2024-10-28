@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+    <item>
+        <Dia>1</Dia>
+        <Ms ns:originalKey="Mês">novembro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">0</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Seco</IntensidadedaChuva>
+    </item>
+    <item>
+        <Dia>2</Dia>
+        <Ms ns:originalKey="Mês">novembro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">0</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Seco</IntensidadedaChuva>
+    </item>
+    <item>
+        <Dia>3</Dia>
+        <Ms ns:originalKey="Mês">novembro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">0.1</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Chuva Moderada</IntensidadedaChuva>
+    </item>
+    <item>
+        <Dia>21</Dia>
+        <Ms ns:originalKey="Mês">outubro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">0.4</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Chuva Moderada</IntensidadedaChuva>
+    </item>
+    <item>
+        <Dia>22</Dia>
+        <Ms ns:originalKey="Mês">outubro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">0</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Seco</IntensidadedaChuva>
+    </item>
+    <item>
+        <Dia>23</Dia>
+        <Ms ns:originalKey="Mês">outubro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">0</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Seco</IntensidadedaChuva>
+    </item>
+    <item>
+        <Dia>24</Dia>
+        <Ms ns:originalKey="Mês">outubro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">1.1</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Chuva Intensa</IntensidadedaChuva>
+    </item>
+    <item>
+        <Dia>25</Dia>
+        <Ms ns:originalKey="Mês">outubro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">0</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Seco</IntensidadedaChuva>
+    </item>
+    <item>
+        <Dia>26</Dia>
+        <Ms ns:originalKey="Mês">outubro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">2</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Chuva Intensa</IntensidadedaChuva>
+    </item>
+    <item>
+        <Dia>27</Dia>
+        <Ms ns:originalKey="Mês">outubro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">0</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Seco</IntensidadedaChuva>
+    </item>
+    <item>
+        <Dia>28</Dia>
+        <Ms ns:originalKey="Mês">outubro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">0</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Seco</IntensidadedaChuva>
+    </item>
+    <item>
+        <Dia>29</Dia>
+        <Ms ns:originalKey="Mês">outubro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">0</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Seco</IntensidadedaChuva>
+    </item>
+    <item>
+        <Dia>30</Dia>
+        <Ms ns:originalKey="Mês">outubro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">0</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Seco</IntensidadedaChuva>
+    </item>
+    <item>
+        <Dia>31</Dia>
+        <Ms ns:originalKey="Mês">outubro</Ms>
+        <ChuvaMax ns:originalKey="Chuva (Max*)">0.1</ChuvaMax>
+        <IntensidadedaChuva ns:originalKey="Intensidade da Chuva">Chuva Moderada</IntensidadedaChuva>
+    </item>
+</root>

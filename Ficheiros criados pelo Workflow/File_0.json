@@ -1,0 +1,99 @@
+[ {
+  "Dia" : 1,
+  "Mês" : "novembro",
+  "Temperatura (Min*)" : 10.4,
+  "Temperatura (Max*)" : 20.7,
+  "Temperatura (Mean)" : 14.670833333333333,
+  "Faixa de Temperatura" : "Frio"
+}, {
+  "Dia" : 2,
+  "Mês" : "novembro",
+  "Temperatura (Min*)" : 10.6,
+  "Temperatura (Max*)" : 22.0,
+  "Temperatura (Mean)" : 15.179166666666667,
+  "Faixa de Temperatura" : "Ameno"
+}, {
+  "Dia" : 3,
+  "Mês" : "novembro",
+  "Temperatura (Min*)" : 9.9,
+  "Temperatura (Max*)" : 20.5,
+  "Temperatura (Mean)" : 14.979166666666668,
+  "Faixa de Temperatura" : "Frio"
+}, {
+  "Dia" : 21,
+  "Mês" : "outubro",
+  "Temperatura (Min*)" : 13.4,
+  "Temperatura (Max*)" : 18.6,
+  "Temperatura (Mean)" : 16.45,
+  "Faixa de Temperatura" : "Ameno"
+}, {
+  "Dia" : 22,
+  "Mês" : "outubro",
+  "Temperatura (Min*)" : 9.9,
+  "Temperatura (Max*)" : 22.2,
+  "Temperatura (Mean)" : 15.395833333333336,
+  "Faixa de Temperatura" : "Ameno"
+}, {
+  "Dia" : 23,
+  "Mês" : "outubro",
+  "Temperatura (Min*)" : 11.9,
+  "Temperatura (Max*)" : 25.3,
+  "Temperatura (Mean)" : 17.67083333333334,
+  "Faixa de Temperatura" : "Ameno"
+}, {
+  "Dia" : 24,
+  "Mês" : "outubro",
+  "Temperatura (Min*)" : 13.3,
+  "Temperatura (Max*)" : 20.7,
+  "Temperatura (Mean)" : 16.3375,
+  "Faixa de Temperatura" : "Ameno"
+}, {
+  "Dia" : 25,
+  "Mês" : "outubro",
+  "Temperatura (Min*)" : 7.9,
+  "Temperatura (Max*)" : 14.7,
+  "Temperatura (Mean)" : 12.062500000000004,
+  "Faixa de Temperatura" : "Frio"
+}, {
+  "Dia" : 26,
+  "Mês" : "outubro",
+  "Temperatura (Min*)" : 7.9,
+  "Temperatura (Max*)" : 13.7,
+  "Temperatura (Mean)" : 10.979166666666668,
+  "Faixa de Temperatura" : "Frio"
+}, {
+  "Dia" : 27,
+  "Mês" : "outubro",
+  "Temperatura (Min*)" : 7.9,
+  "Temperatura (Max*)" : 18.0,
+  "Temperatura (Mean)" : 12.187499999999998,
+  "Faixa de Temperatura" : "Frio"
+}, {
+  "Dia" : 28,
+  "Mês" : "outubro",
+  "Temperatura (Min*)" : 8.4,
+  "Temperatura (Max*)" : 20.5,
+  "Temperatura (Mean)" : 13.875,
+  "Faixa de Temperatura" : "Frio"
+}, {
+  "Dia" : 29,
+  "Mês" : "outubro",
+  "Temperatura (Min*)" : 11.5,
+  "Temperatura (Max*)" : 23.0,
+  "Temperatura (Mean)" : 16.141666666666666,
+  "Faixa de Temperatura" : "Ameno"
+}, {
+  "Dia" : 30,
+  "Mês" : "outubro",
+  "Temperatura (Min*)" : 12.7,
+  "Temperatura (Max*)" : 22.5,
+  "Temperatura (Mean)" : 16.695833333333336,
+  "Faixa de Temperatura" : "Ameno"
+}, {
+  "Dia" : 31,
+  "Mês" : "outubro",
+  "Temperatura (Min*)" : 10.8,
+  "Temperatura (Max*)" : 18.6,
+  "Temperatura (Mean)" : 13.999999999999998,
+  "Faixa de Temperatura" : "Frio"
+} ]
